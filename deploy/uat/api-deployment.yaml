@@ -18,7 +18,7 @@ spec:
         vote-config-version: "04511c"
     spec:
       containers:
-      - image: dannyyangtest/vote-api:1.0.1
+      - image: dannyyangtest/vote-api:1.0.2
         name: vote-api
         imagePullPolicy: Always
         resources:
